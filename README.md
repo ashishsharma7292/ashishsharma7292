@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of professional experience, currently working at Softintra Technology Pvt Ltd. My journey in web development has been enriched with expertise in popular PHP frameworks like Laravel and CodeIgniter. I thrive on building robust web applications, crafting elegant solutions, and continuously expanding my skill set.
+I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of professional experience, currently working at Softintra Technology Pvt Ltd. My journey in web development has been enriched with expertise in popular PHP frameworks like **Laravel and CodeIgniter**. I thrive on building robust web applications, crafting elegant solutions, and continuously expanding my skill set.
 
 💻 My toolkit includes **PHP, JavaScript, jQuery, and Bootstrap**, allowing me to develop dynamic and responsive front-end experiences. I'm adept at integrating **RESTful APIs**, ensuring seamless communication between different systems and services.
 
@@ -10,12 +10,14 @@ I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of profes
 
 ## About Me
 
-- **Experience:** 4+ years
-- **Current Position:** Full Stack Developer at Softintra Technology Pvt Ltd
+- **Experience:** 4+ Years
+- **Current Position:** Manager & Full Stack Developer at Softintra Technology Pvt Ltd.
 - **Location:** Gorakhpur, Uttar Pradesh
 - **Email:** ashishsharma007.as46@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ashishsharmaoo7/
-- **GitHub:** https://github.com/ashishsharma7292
+- **LinkedIn:** [Go to my LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7/)
+- **GitHub:** [You are Here](https://github.com/ashishsharma7292)
+- **Instagram:** [See Profile](https://www.instagram.com/ashishsharma_oo7/)
+
 ## Skills
 
 - **Laravel:** I have extensive experience working with the Laravel framework, including building RESTful APIs, authentication systems, and complex web applications.
@@ -27,7 +29,7 @@ I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of profes
 ## Projects
 
 ### Project 1: Softintra CRM - Project & Team Management Software
-Description: 
+#### Description: 
 Our CRM (Customer Relationship Management) software offers a comprehensive suite of features designed to enhance efficiency and organization across various aspects of your business:
 
 #### Team Management: 
@@ -94,20 +96,20 @@ Choose from a variety of customizable MLM plans tailored to your business model,
 
 ### Laravel Developer at Softintra Technology Pvt Ltd
 
-[March 2021] - Present
+March 2021 - Present
 
-- Full Stack Developer, Manager & Team Lead in Softintra Technology Pvt. Ltd.
+- Full Stack Developer, Manager & Team Lead in [Softintra Technology Pvt. Ltd.](https://softintra.com/)
 
 ### FrontEnd Developer at Softintra Technology Pvt Ltd
 
-[March 2020] - [March 2021]
+March 2020 - March 2021
 
-- FrontEnd Developer & SEO Exicutive in Bharat Taxi (https://www.bharattaxi.com/).
+- FrontEnd Developer & SEO Exicutive in [Bharat Taxi](https://www.bharattaxi.com/).
 
 
 ## Education
 
-- **[BCA]** in [Computer Science], [Swami Vivekanand Subharti University], [2020]
+- **BCA** in Computer Science, Swami Vivekanand Subharti University, 2020
 
 ## Interests
 
@@ -115,7 +117,7 @@ In my free time, I enjoy Playing Cricket, Listening Music.
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mailto:ashish@softintra.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7).
+Feel free to reach out to me via [Email](mailto:ashish@softintra.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7).
 
 I'm open to collaboration, job opportunities, or just helping about all things related to my experience!
 
