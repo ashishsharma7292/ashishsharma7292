@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of professional experience, currently working at Softintra Technology Pvt Ltd. My journey in web development has been enriched with expertise in popular PHP frameworks like **Laravel and CodeIgniter**. I thrive on building robust web applications, crafting elegant solutions, and continuously expanding my skill set.
+I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of professional experience, currently working at [Softintra Technology Pvt Ltd](https://softintra.com/). My journey in web development has been enriched with expertise in popular PHP frameworks like **Laravel and CodeIgniter**. I thrive on building robust web applications, crafting elegant solutions, and continuously expanding my skill set.
 
 💻 My toolkit includes **PHP, JavaScript, jQuery, and Bootstrap**, allowing me to develop dynamic and responsive front-end experiences. I'm adept at integrating **RESTful APIs**, ensuring seamless communication between different systems and services.
 
@@ -11,12 +11,12 @@ I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of profes
 ## About Me
 
 - **Experience:** 4+ Years
-- **Current Position:** Manager & Full Stack Developer at Softintra Technology Pvt Ltd.
-- **Location:** Gorakhpur, Uttar Pradesh
-- **Email:** ashishsharma007.as46@gmail.com
+- **Current Position:** Manager & Full Stack Developer at [Softintra Technology Pvt Ltd](https://softintra.com/)
+- **Location:** Gorakhpur, Uttar Pradesh, India
+- **Email:** [Click for Email](mailto:ashishsharma007.as46@gmail.com)
 - **LinkedIn:** [Go to my LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7/)
-- **GitHub:** [You are Here](https://github.com/ashishsharma7292)
-- **Instagram:** [See Profile](https://www.instagram.com/ashishsharma_oo7/)
+- **GitHub:** [You are already on my Github](https://github.com/ashishsharma7292)
+- **Instagram:** [Click here to go to my Instagram Profile](https://www.instagram.com/ashishsharma_oo7/)
 
 ## Skills
 
