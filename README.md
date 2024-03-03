@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/llyelpbfi/Make%20your%20README.png?updatedAt=1709444036923" style="width: 100%;" alt="">
+<img src="https://ik.imagekit.io/llyelpbfi/ashish-readme.png" alt="ashishsharma7292">
 
 # Hi there! 👋
 
