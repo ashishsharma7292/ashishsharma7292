@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/llyelpbfi/ashish-readme.png" alt="ashishsharma7292">
+<img src="./ashish-banner.png" alt="Ashish Sharma - Backend Developer">
 
 # Hi there! 👋
 
