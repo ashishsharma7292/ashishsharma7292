@@ -2,17 +2,17 @@
 
 # Hi there! 👋
 
-I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of professional experience, currently working at [Softintra Technology Pvt Ltd](https://softintra.com/). My journey in web development has been enriched with expertise in popular PHP frameworks like **Laravel and CodeIgniter**. I thrive on building robust web applications, crafting elegant solutions, and continuously expanding my skill set.
+I'm **Ashish Sharma**, a backend-focused Full Stack Developer with **6+ years of experience** in **PHP, Laravel, and REST APIs**, currently working as a **Backend Developer at Molitics InfoMedia**, New Delhi. My journey in web development spans core PHP, CodeIgniter, and Laravel, with a strong focus on backend architecture, system design, and performance optimization.
 
-💻 My toolkit includes **PHP, JavaScript, jQuery, and Bootstrap**, allowing me to develop dynamic and responsive front-end experiences. I'm adept at integrating **RESTful APIs**, ensuring seamless communication between different systems and services.
+💻 My toolkit includes **PHP, Laravel, Lumen, Node.js, and Python**, and I specialize in building and maintaining scalable **microservices** and **REST/GraphQL APIs**. I've also built and independently deployed a production-level cab booking platform, end to end.
 
-🚀 Recently, I've embarked on a journey into **Angular** development, eager to dive deeper into the world of modern front-end frameworks and enhance my proficiency in creating dynamic user interfaces.
+🚀 I'm continually expanding my stack — currently exploring **Node.js, Python, and GraphQL** alongside Laravel to build efficient, modular backend systems.
 
 ## About Me
 
-- **Experience:** 4+ Years
-- **Current Position:** Manager & Full Stack Developer at [Softintra Technology Pvt Ltd](https://softintra.com/)
-- **Location:** Gorakhpur, Uttar Pradesh, India
+- **Experience:** 6+ Years
+- **Current Position:** Backend Developer at Molitics InfoMedia, New Delhi
+- **Location:** New Ashok Nagar, New Delhi, India
 - **Email:** [Click for Email](mailto:ashishsharma007.as46@gmail.com)
 - **LinkedIn:** [Go to my LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7/)
 - **GitHub:** [You are already on my Github](https://github.com/ashishsharma7292)
@@ -20,106 +20,77 @@ I'm **Ashish Sharma**, a seasoned PHP developer with more than 4 years of profes
 
 ## Skills
 
-- **Laravel:** I have extensive experience working with the Laravel framework, including building RESTful APIs, authentication systems, and complex web applications.
-- **PHP:** Proficient in PHP, I utilize it to craft efficient and scalable backend solutions.
-- **MySQL/Database Management:** Skilled in database management, particularly with MySQL, ensuring optimal performance and data integrity.
-- **Frontend Technologies:** Familiar with frontend technologies such as HTML, CSS, Bootstrap, JavaScript, and jQuery.
-- **Version Control:** Proficient in Git and GitHub for version control and collaboration.
+- **Laravel & Lumen:** Extensive experience building RESTful APIs, authentication systems, microservices, and complex web applications.
+- **PHP:** Proficient in PHP, used to craft efficient and scalable backend solutions.
+- **Node.js & Python (Basic):** Working knowledge for contributing to microservices built in multi-language architectures.
+- **GraphQL:** Implemented GraphQL APIs for efficient, flexible data fetching.
+- **MySQL/Database Management:** Skilled in database optimization, having reduced response times by up to 30% through query and backend tuning.
+- **Frontend Technologies:** Familiar with HTML, CSS, Bootstrap, jQuery, and Angular (Basic).
+- **Version Control & Cloud:** Proficient in Git, Bitbucket, and AWS EC2.
+- **Other Tools:** Elasticsearch, Payment Gateway Integration, Third-Party API Integration.
 
-## Projects
+## Featured Projects
 
-### Project 1: Softintra CRM - Project & Team Management Software
-#### Description: 
-Our CRM (Customer Relationship Management) software offers a comprehensive suite of features designed to enhance efficiency and organization across various aspects of your business:
+### 🚕 Zeo Taxi — Cab Booking & CRM Platform (Solo Full Stack Developer)
+A complete cab booking platform built from scratch, including the user-facing website and an admin CRM panel.
+- **Live:** [zeotaxi.com](https://www.zeotaxi.com/) | **CRM Panel:** [crm.zeotaxi.com](https://crm.zeotaxi.com/)
+- **Tech:** Laravel, MySQL, JavaScript, AJAX, Bootstrap
+- Designed and developed the booking flow, vendor management, driver management, and payment modules.
+- Built a CRM dashboard with real-time booking insights, analytics, and performance tracking.
+- Implemented REST APIs (including Google Distance Matrix) for frontend-backend communication.
+- Optimized database queries and backend logic for better performance.
+- Managed the full deployment lifecycle (development → production) independently.
 
-#### Team Management: 
-Easily manage and collaborate with your team members, assign tasks, and track progress in real-time.
+### 🏗️ Molitics — Microservices Architecture (Backend Developer)
+Backend services within a microservices-based architecture spanning multiple technologies.
+- **Live:** [molitics.in](https://molitics.in/)
+- **Tech:** Laravel, Lumen, Node.js, Python, GraphQL
+- Built and maintained APIs using Laravel & Lumen.
+- Implemented GraphQL APIs for efficient data fetching.
+- Contributed changes to Node.js and Python repositories.
+- Improved service communication and modular architecture.
 
-#### Project Management: 
-Stay on top of projects with intuitive tools for planning, scheduling, and monitoring project milestones and deadlines.
+### 📊 Softintra CRM — Project & Team Management Software
+A comprehensive CRM suite covering team, project, attendance, sales, lead, and expense management with role-based access control.
 
-#### Attendance Management: 
-Effortlessly track employee attendance, streamline timesheet management, and ensure accurate payroll processing.
-
-#### Sales Management: 
-Boost your sales efforts with tools for lead tracking, pipeline management, and sales performance analysis.
-
-#### Lead Management: 
-Capture, nurture, and convert leads effectively through centralized lead tracking and automated follow-up processes.
-
-#### Role and Permission: 
-Define roles and permissions to ensure secure access control and maintain data confidentiality within your organization.
-
-#### Expense Management: 
-Simplify expense tracking, reimbursement, and budget management to optimize financial processes.
-
-### Project 2: Smart Feel Trade - MLM Software
-
-#### Description: 
-Our MLM (Multi-Level Marketing) software is a powerhouse of features tailored to propel your network marketing business to new heights:
-
-#### Direct Bonus: 
-Instantly reward members for direct referrals and sales, fostering motivation and engagement at every level.
-
-#### Level Bonus: 
-Encourage team growth and loyalty with dynamic bonuses distributed across multiple levels within your network.
-
-#### Cashback: 
-Delight customers and distributors alike with cashback incentives, driving repeat purchases and retention.
-
-#### Wallet: 
-Seamlessly manage funds with a secure digital wallet, providing convenience and flexibility for transactions.
-
-#### Wallet to Bank Account Transfer: 
-Enable hassle-free transfer of funds from the wallet to bank accounts, ensuring smooth financial management.
-
-#### Team Business Calculations: 
-Gain insights into team performance and business growth through comprehensive calculations and analytics.
-
-#### Rewards on Team Business: 
-Incentivize team efforts with rewards and recognition based on collective business achievements.
-
-#### Salary: 
-Salary payments unlock based on team business, users can redeem his monthly salary in wallet.
-
-#### Fund Requests: 
-Simplify fund management with a streamlined request process, facilitating efficient allocation and distribution.
-
-#### Withdrawal Requests: 
-Empower members to access their earnings seamlessly through convenient withdrawal requests.
-
-#### Plans: 
-Choose from a variety of customizable MLM plans tailored to your business model, ensuring flexibility and scalability as your network expands.
-
+### 💰 Smart Feel Trade — MLM Software
+A feature-rich MLM platform with direct/level bonuses, cashback, digital wallet, wallet-to-bank transfers, team business analytics, and reward/salary structures.
 
 ## Experience
 
-### Laravel Developer at Softintra Technology Pvt Ltd
+### Backend Developer, Molitics InfoMedia, New Delhi
+**Nov 2024 – Present**
+- Developed and maintained microservices using Laravel, Lumen, Node.js, and Python.
+- Collaborated with frontend developers to simplify APIs and speed up project delivery.
+- Refactored legacy code to improve backend speed and optimize API response times.
+- Enhanced performance by optimizing database queries and backend response handling.
+- Played a key role in improving code structure, reducing dev time by 30%.
 
-March 2021 - Present
+### Full Stack Developer, Softintra Technology Pvt Ltd
+**Mar 2021 – Sep 2024**
+- Led the migration from core PHP to CodeIgniter & Laravel, boosting project quality and client trust.
+- Mentored freshers to ramp up quickly, enabling early project deliveries and stronger team output.
 
-- Full Stack Developer, Manager & Team Lead in [Softintra Technology Pvt. Ltd.](https://softintra.com/)
-
-### FrontEnd Developer at Softintra Technology Pvt Ltd
-
-March 2020 - March 2021
-
-- FrontEnd Developer & SEO Exicutive in [Bharat Taxi](https://www.bharattaxi.com/).
-
+### PHP Developer, Bharat Taxi
+**Mar 2020 – Feb 2021**
+- Improved frontend UI for better user engagement, contributing to increased website sales.
+- Developed key PHP modules as a fresher, supporting seniors and ensuring timely project delivery.
 
 ## Education
 
-- **BCA** in Computer Science, Swami Vivekanand Subharti University, 2020
+- **Bachelor of Computer Applications**, Swami Vivekanand Subharti University (2017 – 2020)
+  - Specialization in Web Development and Database Management.
+  - Thesis: *"Innovative Approaches to Sustainable and Scalable Software Solutions"*
+- **Intermediate**, St. Mary's Inter College, Gorakhpur (2014 – 2015)
 
 ## Interests
 
-In my free time, I enjoy Playing Cricket, Listening Music.
+In my free time, I enjoy playing cricket and listening to music.
 
 ## Contact Me
 
-Feel free to reach out to me via [Email](mailto:ashish@softintra.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7).
+Feel free to reach out via [Email](mailto:ashishsharma007.as46@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7/).
 
-I'm open to collaboration, job opportunities, or just helping about all things related to my experience!
+I'm open to collaboration, job opportunities, or just chatting about anything related to backend development and system design!
 
 Looking forward to connecting with you!
-
