@@ -1,4 +1,3 @@
-<!-- Replace/add ashish-banner.png in your profile repository -->
 <p align="center">
   <img src="./ashish-banner.png" alt="Ashish Sharma — Senior Backend Developer" width="100%" />
 </p>
