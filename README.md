@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ashish-sharma-portfolio.pages.dev"><strong>↗ Visit my portfolio — projects, experience & technical journey</strong></a>
+  <a href="https://ashish-sharma-portfolio.pages.dev" target="_blank"><strong>↗ Visit my portfolio — projects, experience & technical journey</strong></a>
 </p>
 
 
