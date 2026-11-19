@@ -78,7 +78,7 @@ I'm a backend-focused engineer with **6+ years of experience** building, moderni
 - Optimized MySQL queries, indexing, and response handling; applied Redis caching.
 - Improved API response times by up to **30%** and supported frontend integration with documented APIs.
 
-### 📊 Softintra CRM
+### 📊 [Softintra CRM](https://crm.softintra.com/)
 **Laravel · CodeIgniter · PHP · MySQL**
 
 - Worked on CRM features for projects, teams, attendance, leads, sales, and expenses.
@@ -114,19 +114,6 @@ I'm a backend-focused engineer with **6+ years of experience** building, moderni
 ## 📌 Engineering Interests
 
 `System Design` · `Microservices` · `Distributed Systems` · `Performance Engineering` · `Caching` · `Search` · `API Design` · `Event-Driven Architecture` · `Clean Architecture` · `SOLID`
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishsharma7292&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsharma7292&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashishsharma7292&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 
 ---
 
