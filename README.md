@@ -1,96 +1,145 @@
-<img src="./ashish-banner.png" alt="Ashish Sharma - Backend Developer">
+<!-- Replace/add ashish-banner.png in your profile repository -->
+<p align="center">
+  <img src="./ashish-banner.png" alt="Ashish Sharma — Senior Backend Developer" width="100%" />
+</p>
 
-# Hi there! 👋
+<h1 align="center">Ashish Sharma</h1>
+<h3 align="center">Senior Backend Developer specializing in Laravel, microservices, system design, and performance optimization</h3>
 
-I'm **Ashish Sharma**, a backend-focused Full Stack Developer with **6+ years of experience** in **PHP, Laravel, and REST APIs**, currently working as a **Backend Developer at Molitics InfoMedia**, New Delhi. My journey in web development spans core PHP, CodeIgniter, and Laravel, with a strong focus on backend architecture, system design, and performance optimization.
+<p align="center">
+  <a href="https://ashish-sharma-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ashishsharma007.as46@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashishsharmaoo7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-💻 My toolkit includes **PHP, Laravel, Lumen, Node.js, and Python**, and I specialize in building and maintaining scalable **microservices** and **REST/GraphQL APIs**. I've also built and independently deployed a production-level cab booking platform, end to end.
+<p align="center">
+  <a href="https://ashish-sharma-portfolio.pages.dev"><strong>↗ Visit my portfolio — projects, experience & technical journey</strong></a>
+</p>
 
-🚀 I'm continually expanding my stack — currently exploring **Node.js, Python, and GraphQL** alongside Laravel to build efficient, modular backend systems.
 
-## About Me
+---
 
-- **Experience:** 6+ Years
-- **Current Position:** Backend Developer at Molitics InfoMedia, New Delhi
-- **Location:** New Ashok Nagar, New Delhi, India
-- **Email:** [Click for Email](mailto:ashishsharma007.as46@gmail.com)
-- **LinkedIn:** [Go to my LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7/)
-- **GitHub:** [You are already on my Github](https://github.com/ashishsharma7292)
-- **Instagram:** [Click here to go to my Instagram Profile](https://www.instagram.com/ashishsharma_oo7/)
+## 👋 About Me
 
-## Skills
+I'm a backend-focused engineer with **6+ years of experience** building, modernizing, and optimizing web applications and backend services. My work centers on **Laravel, PHP, microservices, API design, system design, and database performance**—with ownership from implementation through production.
 
-- **Laravel & Lumen:** Extensive experience building RESTful APIs, authentication systems, microservices, and complex web applications.
-- **PHP:** Proficient in PHP, used to craft efficient and scalable backend solutions.
-- **Node.js & Python (Basic):** Working knowledge for contributing to microservices built in multi-language architectures.
-- **GraphQL:** Implemented GraphQL APIs for efficient, flexible data fetching.
-- **MySQL/Database Management:** Skilled in database optimization, having reduced response times by up to 30% through query and backend tuning.
-- **Frontend Technologies:** Familiar with HTML, CSS, Bootstrap, jQuery, and Angular (Basic).
-- **Version Control & Cloud:** Proficient in Git, Bitbucket, and AWS EC2.
-- **Other Tools:** Elasticsearch, Payment Gateway Integration, Third-Party API Integration.
+- 🔭 Currently building and improving backend services at **Molitics Infomedia**
+- ⚙️ Focused on scalable APIs, maintainable architecture, caching, and performance
+- ☁️ Experienced with AWS, Docker, CI/CD, and production deployments
+- 🧩 Worked across Laravel, Lumen, Node.js, and Python service repositories
+- 👨‍🏫 Mentored junior engineers and helped standardize code and delivery practices
+- 📍 Delhi, India
 
-## Featured Projects
+---
 
-### 🚕 Zeo Taxi — Cab Booking & CRM Platform (Solo Full Stack Developer)
-A complete cab booking platform built from scratch, including the user-facing website and an admin CRM panel.
-- **Live:** [zeotaxi.com](https://www.zeotaxi.com/) | **CRM Panel:** [crm.zeotaxi.com](https://crm.zeotaxi.com/)
-- **Tech:** Laravel, MySQL, JavaScript, AJAX, Bootstrap
-- Designed and developed the booking flow, vendor management, driver management, and payment modules.
-- Built a CRM dashboard with real-time booking insights, analytics, and performance tracking.
-- Implemented REST APIs (including Google Distance Matrix) for frontend-backend communication.
-- Optimized database queries and backend logic for better performance.
-- Managed the full deployment lifecycle (development → production) independently.
+## 🧰 Tech Stack
 
-### 🏗️ Molitics — Microservices Architecture (Backend Developer)
-Backend services within a microservices-based architecture spanning multiple technologies.
-- **Live:** [molitics.in](https://molitics.in/)
-- **Tech:** Laravel, Lumen, Node.js, Python, GraphQL
-- Built and maintained APIs using Laravel & Lumen.
-- Implemented GraphQL APIs for efficient data fetching.
-- Contributed changes to Node.js and Python repositories.
-- Improved service communication and modular architecture.
+### Backend & API
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" alt="PHP, Laravel, Node.js, Python" />
+</p>
 
-### 📊 Softintra CRM — Project & Team Management Software
-A comprehensive CRM suite covering team, project, attendance, sales, lead, and expense management with role-based access control.
+**Also:** Lumen · REST APIs · GraphQL · Eloquent · Queues · Event-driven systems
 
-### 💰 Smart Feel Trade — MLM Software
-A feature-rich MLM platform with direct/level bonuses, cashback, digital wallet, wallet-to-bank transfers, team business analytics, and reward/salary structures.
+### Data, Cache & Search
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,elasticsearch" alt="MySQL, Redis, Elasticsearch" />
+</p>
 
-## Experience
+### Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,bitbucket" alt="AWS, Docker, Nginx, GitHub Actions, Git, Bitbucket" />
+</p>
+**AWS:** EC2 · S3 · RDS · SQS · Docker Compose · CI/CD
 
-### Backend Developer, Molitics InfoMedia, New Delhi
-**Nov 2024 – Present**
-- Developed and maintained microservices using Laravel, Lumen, Node.js, and Python.
-- Collaborated with frontend developers to simplify APIs and speed up project delivery.
-- Refactored legacy code to improve backend speed and optimize API response times.
-- Enhanced performance by optimizing database queries and backend response handling.
-- Played a key role in improving code structure, reducing dev time by 30%.
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,angular" alt="HTML, CSS, Bootstrap, JavaScript, jQuery, Angular" />
+</p>
 
-### Full Stack Developer, Softintra Technology Pvt Ltd
-**Mar 2021 – Sep 2024**
-- Led the migration from core PHP to CodeIgniter & Laravel, boosting project quality and client trust.
-- Mentored freshers to ramp up quickly, enabling early project deliveries and stronger team output.
+---
 
-### PHP Developer, Bharat Taxi
-**Mar 2020 – Feb 2021**
-- Improved frontend UI for better user engagement, contributing to increased website sales.
-- Developed key PHP modules as a fresher, supporting seniors and ensuring timely project delivery.
+## 🚀 Featured Work
 
-## Education
+### 🚕 [Zeo Taxi — Cab Booking & CRM](https://www.zeotaxi.com/)
+**Independent end-to-end development · Laravel · MySQL · JavaScript · AJAX · Bootstrap**
 
-- **Bachelor of Computer Applications**, Swami Vivekanand Subharti University (2017 – 2020)
-  - Specialization in Web Development and Database Management.
-  - Thesis: *"Innovative Approaches to Sustainable and Scalable Software Solutions"*
-- **Intermediate**, St. Mary's Inter College, Gorakhpur (2014 – 2015)
+- Built a cab-booking platform and CRM from the ground up.
+- Developed booking flows, vendor and driver management, and payment-related modules.
+- Created CRM dashboards for operational insights and booking management.
+- Integrated REST APIs and Google Distance Matrix; handled deployment through production.
 
-## Interests
+**Links:** [Website](https://www.zeotaxi.com/) · [CRM](https://crm.zeotaxi.com/)
 
-In my free time, I enjoy playing cricket and listening to music.
+### 🏗️ [Molitics — Social & News Platform](https://molitics.in/)
+**Microservices · Laravel · Lumen · Node.js · Python · GraphQL · MySQL · Redis · Elasticsearch**
 
-## Contact Me
+- Developed and maintained services across a multi-repository backend.
+- Refactored legacy modules into cleaner, SOLID-aligned service layers.
+- Optimized MySQL queries, indexing, and response handling; applied Redis caching.
+- Improved API response times by up to **30%** and supported frontend integration with documented APIs.
 
-Feel free to reach out via [Email](mailto:ashishsharma007.as46@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashishsharmaoo7/).
+### 📊 Softintra CRM
+**Laravel · CodeIgniter · PHP · MySQL**
 
-I'm open to collaboration, job opportunities, or just chatting about anything related to backend development and system design!
+- Worked on CRM features for projects, teams, attendance, leads, sales, and expenses.
+- Led Core PHP modernization to Laravel and CodeIgniter across **10+ applications**.
+- Built reusable modules, role-based permissions, integrations, and payment workflows.
 
-Looking forward to connecting with you!
+### 💰 Smart Feel Trade
+**Laravel · PHP · MySQL**
+
+- Built MLM/business platform features around bonuses, rewards, cashback, wallets, and analytics.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Senior Backend Developer** | Molitics Infomedia | Nov 2024 – Present |
+| **Full Stack Developer** | Softintra Technology | Mar 2021 – Sep 2024 |
+| **PHP Developer** | Bharat Taxi | Mar 2020 – Feb 2021 |
+
+<details>
+<summary><strong>Highlights from my experience</strong></summary>
+
+- Backend refactoring and query/caching improvements contributed to **30% faster API response times**.
+- Standardized code patterns and backend restructuring helped reduce development time by **30%**.
+- Led Core PHP migrations to Laravel/CodeIgniter across **10+ applications**.
+- Mentored **5 junior developers**; delivered features across backend and frontend for multiple client projects.
+</details>
+
+---
+
+## 📌 Engineering Interests
+
+`System Design` · `Microservices` · `Distributed Systems` · `Performance Engineering` · `Caching` · `Search` · `API Design` · `Event-Driven Architecture` · `Clean Architecture` · `SOLID`
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishsharma7292&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsharma7292&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashishsharma7292&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://ashish-sharma-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ashishsharma007.as46@gmail.com"><img src="https://img.shields.io/badge/Email-Ashish-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashishsharmaoo7/"><img src="https://img.shields.io/badge/LinkedIn-Ashish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ashishsharma7292"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/ashishsharma_oo7/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center"><em>Open to backend engineering opportunities, collaboration, and conversations about Laravel, scalable systems, and system design.</em></p>
+<p align="center"><strong>Let's build something great. 🚀</strong></p>
